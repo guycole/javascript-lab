@@ -1,0 +1,5 @@
+var fs = require('fs')
+raw = fs.readFileSync(process.argv[2])
+cooked = raw.toString()
+temp = cooked.split("\n")
+console.log(temp.length-1)
