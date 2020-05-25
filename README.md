@@ -1,2 +1,2 @@
-# node-lab
-node.js experiments
+# javascript-lab
+javascript experiments
